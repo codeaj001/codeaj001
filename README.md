@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;" align="center"><iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 <h3 align="center">Hey! My Name is AJ, an aspiring Developer, currently in love with Solana Ecoystem</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaj001&label=Profile%20views&color=0e75b6&style=flat" alt="codeaj001" /> </p>
