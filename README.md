@@ -1,4 +1,4 @@
-<h3 align="center">An Aspiring Ethical Hacker</h3>
+<h3 align="center">Hey! My Name is AJ, an aspiring Developer, currently in love with Solana Ecoystem</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaj001&label=Profile%20views&color=0e75b6&style=flat" alt="codeaj001" /> </p>
 
