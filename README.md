@@ -1,4 +1,4 @@
-# Hi there, I'm Aashama 👋
+# Hi there, I'm Code AJ 👋
 
 ## 👨‍💻 Software Engineer | Solana Enthusiast
 
