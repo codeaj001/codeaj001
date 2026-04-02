@@ -19,9 +19,7 @@ Welcome to my GitHub! I’m passionate about crafting impactful web experiences 
 ---
 
 ### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aashama-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/aashama)
-[![Twitter/X](https://img.shields.io/badge/Twitter-@code_a_j-1da1f2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/code_a_j)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@code_a_j-1da1f2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/codeajdotsol)
 
 ---
 
