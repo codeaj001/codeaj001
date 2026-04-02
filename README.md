@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m passionate about crafting impactful web experiences 
 ---
 
 ### 🛠️ Languages & Tools
-- **HTML** | **CSS** | **JavaScript** | **Rust**
+- **JavaScript** | **Rust**
 
 ---
 
